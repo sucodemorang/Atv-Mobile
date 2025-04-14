@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: aliceblue;
+    margin: 0;
+    padding: 0;
+}
+
+.celular{
+    width: 375px;
+    height: 667px;
+    background-color: #fff;
+    
+}
+
+.login-container {
+    width: 300px;
+    margin: 100px auto;
+    padding: 30px;
+    background: #fff;
+    box-shadow: 0 0 8px rgba(0,0,0,0.1);
+}
+
+input, button {
+    display: block;
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 7px;
+}
